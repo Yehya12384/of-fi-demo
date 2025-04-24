@@ -1,4 +1,9 @@
-# of-fi-demo
+of-fi-demo/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── pubspec.yaml of-fi-demo
 Offline content viewer for social platforms
 import 'package:flutter/material.dart';
 
