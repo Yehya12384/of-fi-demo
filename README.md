@@ -1,4 +1,8 @@
-of-fi-demo/
+workflows:
+    sample-workflow:
+        name: Codemagic Sample Workflow
+        max_build_duration: 120
+        instance_type: mac_mini_m2/
 ├── android/
 ├── ios/
 ├── lib/
